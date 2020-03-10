@@ -1,1 +1,1 @@
-# 2-rgb
+# trabajo-2
